@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1742995189,
-      "filename": "lineage-22.2-20250326-UNOFFICIAL-Tom-rhode.zip",
-      "id": "6f71fc0278c55f7bbf2be22eb411f6a64d0afbdd",
+      "datetime": 1743155389,
+      "filename": "lineage-22.2-20250328-UNOFFICIAL-Tom-rhode.zip",
+      "id": "f6f55a8f43b71fa0426942452f7779951a73aad2",
       "romtype": "UNOFFICIAL",
-      "size": 1273183516,
-      "url": "https://github.com/Tomoms/rhode_releases/releases/download/20250326/lineage-22.2-20250326-UNOFFICIAL-Tom-rhode.zip",
-      "version": "22.1"
+      "size": 1273043984,
+      "url": "https://github.com/Tomoms/rhode_releases/releases/download/20250328/lineage-22.2-20250328-UNOFFICIAL-Tom-rhode.zip",
+      "version": "22.2"
     }
   ]
 }
