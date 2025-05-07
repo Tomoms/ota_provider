@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1745847466,
-      "filename": "lineage-22.2-20250428-UNOFFICIAL-Tom-mata.zip",
-      "id": "8103a6dc72314ddad1480df37bb4b807bf7a7a28",
+      "datetime": 1746624353,
+      "filename": "lineage-22.2-20250507-UNOFFICIAL-Tom-mata.zip",
+      "id": "79640fd7d6487d07ab30460536aa5d85012782fd",
       "romtype": "UNOFFICIAL",
-      "size": 1087819844,
-      "url": "https://github.com/Tomoms/mata_releases/releases/download/20250428/lineage-22.2-20250428-UNOFFICIAL-Tom-mata.zip",
+      "size": 1131737611,
+      "url": "https://github.com/Tomoms/mata_releases/releases/download/20250507/lineage-22.2-20250507-UNOFFICIAL-Tom-mata.zip",
       "version": "22.2"
     }
   ]
