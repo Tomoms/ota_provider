@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1767437652,
-      "filename": "lineage-23.1-20260103-UNOFFICIAL-Tom-ingot.zip",
-      "id": "749ad09d7b33b055b94f6a97e4fd5833f46c90ec",
+      "datetime": 1773243896,
+      "filename": "lineage-23.2-20260311-UNOFFICIAL-Tom-ingot.zip",
+      "id": "7b1f4f19884ce3c5d25ab04c5033abaf3d5b0f8f",
       "romtype": "UNOFFICIAL",
-      "size": 1439101184,
-      "url": "https://github.com/Tomoms/ingot_releases/releases/download/20260103/lineage-23.1-20260103-UNOFFICIAL-Tom-ingot.zip",
-      "version": "23.1"
+      "size": 1576364883,
+      "url": "https://github.com/Tomoms/ingot_releases/releases/download/20260311/lineage-23.2-20260311-UNOFFICIAL-Tom-ingot.zip",
+      "version": "23.2"
     }
   ]
 }
