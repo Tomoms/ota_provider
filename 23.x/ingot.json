@@ -1,13 +1,24 @@
-{
-  "response": [
-    {
-      "datetime": 1780475173,
-      "filename": "lineage-23.2-20260603-UNOFFICIAL-Tom-ingot.zip",
-      "id": "c1911824d7e396f1de0f12d1aced3679c655ae37",
-      "romtype": "UNOFFICIAL",
-      "size": 1563543582,
-      "url": "https://github.com/Tomoms/ingot_releases/releases/download/20260603/lineage-23.2-20260603-UNOFFICIAL-Tom-ingot.zip",
-      "version": "23.2"
-    }
-  ]
-}
+[
+  {
+    "date": "2026-06-03",
+    "datetime": 1780475173,
+    "files": [
+      {
+        "date": "2026-06-03",
+        "datetime": 1780475173,
+        "filename": "lineage-23.2-20260603-UNOFFICIAL-Tom-ingot.zip",
+        "os_patch_level": "2026-06-01",
+        "os_sdk_level": 36,
+        "sha1": "c1911824d7e396f1de0f12d1aced3679c655ae37",
+        "sha256": "31fb0fbd6c4a2a65798f531c90118d713a34db1904d1a03b81dfaf9ed785cee8",
+        "size": 1563543582,
+        "type": "nightly",
+        "url": "https://github.com/Tomoms/ingot_releases/releases/download/20260603/lineage-23.2-20260603-UNOFFICIAL-Tom-ingot.zip"
+      }
+    ],
+    "os_patch_level": "2026-06-01",
+    "os_sdk_level": 36,
+    "type": "nightly",
+    "version": "23.2"
+  }
+]
