@@ -1,22 +1,16 @@
 [
   {
-    "date": "2026-07-20",
     "datetime": 1784566818,
     "files": [
       {
-        "date": "2026-07-20",
-        "datetime": 1784566818,
         "filename": "lineage-23.2-20260720-UNOFFICIAL-Tom-mata.zip",
-        "os_patch_level": "2026-07-01",
         "os_sdk_level": 36,
-        "sha1": "8011f32af227b7aa42eb6f84a9f356798a97ea85",
         "sha256": "60498d90e9bf26c4df321996893f723a8fc03e79cc99d755685023049f52426d",
         "size": 1045724155,
-        "type": "nightly",
         "url": "https://github.com/Tomoms/mata_releases/releases/download/20260720/lineage-23.2-20260720-UNOFFICIAL-Tom-mata.zip"
       }
     ],
-    "type": "nightly",
+    "type": "UNOFFICIAL",
     "version": "23.2"
   }
 ]
