@@ -1,24 +1,16 @@
-[
+[ 
   {
-    "date": "2026-06-03",
-    "datetime": 1780475173,
+    "datetime": 1784620628,
     "files": [
       {
-        "date": "2026-06-03",
-        "datetime": 1780475173,
-        "filename": "lineage-23.2-20260603-UNOFFICIAL-Tom-ingot.zip",
-        "os_patch_level": "2026-06-01",
-        "os_sdk_level": 36,
-        "sha1": "c1911824d7e396f1de0f12d1aced3679c655ae37",
-        "sha256": "31fb0fbd6c4a2a65798f531c90118d713a34db1904d1a03b81dfaf9ed785cee8",
-        "size": 1563543582,
-        "type": "nightly",
-        "url": "https://github.com/Tomoms/ingot_releases/releases/download/20260603/lineage-23.2-20260603-UNOFFICIAL-Tom-ingot.zip"
+        "filename": "lineage-23.2-20260721-UNOFFICIAL-Tom-ingot.zip",
+        "sha256": "1af7cb3474dc21319bb41928b4125b94ad14756b82550b3fde7849da4664d01f",
+        "size": 1639895272,
+        "url": "https://github.com/Tomoms/ingot_releases/releases/download/20260721/lineage-23.2-20260721-UNOFFICIAL-Tom-ingot.zip",
+        "os_sdk_level": "36"
       }
     ],
-    "os_patch_level": "2026-06-01",
-    "os_sdk_level": 36,
-    "type": "nightly",
+    "type": "UNOFFICIAL",
     "version": "23.2"
   }
 ]
