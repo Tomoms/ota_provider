@@ -1,13 +1,22 @@
-{
-  "response": [
-    {
-      "datetime": 1780480075,
-      "filename": "lineage-23.2-20260603-UNOFFICIAL-Tom-rhode.zip",
-      "id": "4f59ee91389570910b958be32b1920eedf4da10f",
-      "romtype": "UNOFFICIAL",
-      "size": 1067570625,
-      "url": "https://github.com/Tomoms/rhode_releases/releases/download/20260603/lineage-23.2-20260603-UNOFFICIAL-Tom-rhode.zip",
-      "version": "23.2"
-    }
-  ]
-}
+[
+  {
+    "date": "2026-09-11",
+    "datetime": 1789145464,
+    "files": [
+      {
+        "date": "2026-09-11",
+        "datetime": 1789145464,
+        "filename": "lineage-23.2-20260911-UNOFFICIAL-Tom-mata.zip",
+        "os_patch_level": "2026-09-01",
+        "os_sdk_level": 36,
+        "sha1": "8011f32af227b7aa42eb6f84a9f356798a97ea85",
+        "sha256": "8d6a173df0bb63d7c3fd6764b0c102d47ebc0296942a3e7005bbab81901aced0",
+        "size": 1061794195,
+        "type": "nightly",
+        "url": "https://github.com/Tomoms/mata_releases/releases/download/20260911/lineage-23.2-20260911-UNOFFICIAL-Tom-mata.zip"
+      }
+    ],
+    "type": "UNOFFICIAL",
+    "version": "23.2"
+  }
+]
