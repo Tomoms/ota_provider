@@ -1,19 +1,19 @@
 [
   {
-    "date": "2026-09-21",
-    "datetime": 1790013861,
+    "date": "2026-10-13",
+    "datetime": 1791917357,
     "files": [
       {
-        "date": "2026-09-21",
-        "datetime": 1790013861,
-        "filename": "lineage-23.2-20260921-UNOFFICIAL-Tom-mata.zip",
+        "date": "2026-10-13",
+        "datetime": 1791917357,
+        "filename": "lineage-23.2-20261013-UNOFFICIAL-Tom-mata.zip",
         "os_patch_level": "2026-09-01",
         "os_sdk_level": 36,
         "sha1": "8011f32af227b7aa42eb6f84a9f356798a97ea85",
-        "sha256": "211f101cb68749dc69e143175b1978bc1457004c0a5793eb0299bbf7a3fc924d",
-        "size": 1061841114,
+        "sha256": "045905376331f592c0eee398134c5cdf34a122238bc5aa6836cd21861c92f56e",
+        "size": 1065660582,
         "type": "nightly",
-        "url": "https://github.com/Tomoms/mata_releases/releases/download/20260921/lineage-23.2-20260921-UNOFFICIAL-Tom-mata.zip"
+        "url": "https://github.com/Tomoms/mata_releases/releases/download/20261013/lineage-23.2-20261013-UNOFFICIAL-Tom-mata.zip"
       }
     ],
     "type": "UNOFFICIAL",
